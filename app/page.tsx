@@ -60,3 +60,4 @@ const Home = async ({ searchParams }: HomeProps) => {
   )
 }
 export default Home;
+export const revalidate=0;
